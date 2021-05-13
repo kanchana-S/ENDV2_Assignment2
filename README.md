@@ -8,6 +8,7 @@
 
 ### First step is to write down all our basic formulas of calculating node values, activated and other wise for the hidden layer and the output layer. Found using the following formulae 
 (Sig represents sigmoid function)
+
 ![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/formulae_1.PNG)
 
 
