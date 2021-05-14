@@ -18,3 +18,26 @@
 
 ### Following this, the weights can now be updated for the next iterations using the following formula
 W_new = W_old - LR*dE/dW_old
+
+### Following images are the graphs of total error with different learing rates
+Note - The graphs are a bit different from what were shown in during the class, please be rest assured that the values are same, i have cross checked atleast 3 times. I did find a mistake made during the lecture which have led to the graphs being different
+
+#### LR = 0.1
+![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_0point1.PNG)
+
+#### LR = 0.2
+![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_0point2.PNG)
+
+#### LR = 0.5
+![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_0point5.PNG)
+
+#### LR = 0.8
+![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_0point8.PNG)
+
+
+#### LR = 1
+![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_1.PNG)
+
+
+#### LR = 2
+![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_2.PNG)
