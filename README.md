@@ -20,7 +20,6 @@
 W_new = W_old - LR*dE/dW_old
 
 ### Following images are the graphs of total error with different learing rates
-Note - The graphs are a bit different from what were shown during the class, please be assured that the values are same, i have cross checked atleast 3 times. I did find a mistake made during the lecture which have led to the graphs being different
 
 #### LR = 0.1
 ![image](https://github.com/kanchana-S/ENDV2_Assignment2/blob/main/images/learning_rate_0point1.PNG)
